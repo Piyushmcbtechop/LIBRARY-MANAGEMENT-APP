@@ -6,7 +6,6 @@ Create a Book library management application.
 ## Link for Visit
 
 
-[Youtube Video Link](https://www.youtube.com/watch?v=dYm_pImIrZY&t=7s)
 
 ## Key Features
 
