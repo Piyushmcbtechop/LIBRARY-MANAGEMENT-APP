@@ -3,9 +3,6 @@
 Create a Book library management application.
 
 
-## Link for Visit
-
-
 
 ## Key Features
 
